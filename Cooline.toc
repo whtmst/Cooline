@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: Cooline
+## Notes: Cooldowns line. Alt + LMB = Move
+## SavedVariablesPerCharacter: cooline_settings
+
+settings.lua
+cooline.lua
